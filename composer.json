@@ -1,0 +1,20 @@
+{
+  "name": "aswad/scrapper-project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Aswad Ali",
+      "email": "aswad.ali@xevensolutions.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.4",
+    "roach-php/core": "^1.1",
+    "masterminds/html5": "^2.7",
+    "phpoffice/phpspreadsheet": "^1.24"
+  }
+}
